@@ -1,7 +1,10 @@
 # Hidden-Procedure-Translation-Method-
+™© Creative Commons BY-NC 4.0 (Attribution–NonCommercial)
+
+
 The Hidden Procedural Translation Method is a five-stage framework that ensures semantic symmetry between source and target languages. Unlike ordinary “back translation,” it introduces a hidden backend correction layer — a quiet, recursive refinement step where subtle meaning drifts are neutralized before final output.  
 
-It's  a five-stage framework for achieving semantic symmetry between languages, is now 100% copyright-free — open to all for practice, research, and AI experimentation.
+It's  a five-stage framework for achieving semantic symmetry between languages, is now 100% copyright-free — open to all for education research, and AI experimentation.
 
 This approach bridges human linguistic sensitivity with AI-style iterative accuracy and is especially suited for literary, philosophical, and cross-cultural works.
 
